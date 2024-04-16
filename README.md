@@ -23,5 +23,5 @@ git clone https://github.com/FBAgol/csharp_weatherStation_observer.git
 ```
 # UML 
 
-![enter image description here](/assests/uml.png)
+![enter image description here](/assets/uml.png)
 
