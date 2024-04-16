@@ -1,0 +1,7 @@
+C:\Users\farza\OneDrive\Desktop\MyProjekte\C#\observer-c#-2\WetherStation\WetherStation\bin\Debug\WetherStation.exe.config
+C:\Users\farza\OneDrive\Desktop\MyProjekte\C#\observer-c#-2\WetherStation\WetherStation\bin\Debug\WetherStation.exe
+C:\Users\farza\OneDrive\Desktop\MyProjekte\C#\observer-c#-2\WetherStation\WetherStation\bin\Debug\WetherStation.pdb
+C:\Users\farza\OneDrive\Desktop\MyProjekte\C#\observer-c#-2\WetherStation\WetherStation\obj\Debug\WetherStation.csproj.AssemblyReference.cache
+C:\Users\farza\OneDrive\Desktop\MyProjekte\C#\observer-c#-2\WetherStation\WetherStation\obj\Debug\WetherStation.csproj.CoreCompileInputs.cache
+C:\Users\farza\OneDrive\Desktop\MyProjekte\C#\observer-c#-2\WetherStation\WetherStation\obj\Debug\WetherStation.exe
+C:\Users\farza\OneDrive\Desktop\MyProjekte\C#\observer-c#-2\WetherStation\WetherStation\obj\Debug\WetherStation.pdb
