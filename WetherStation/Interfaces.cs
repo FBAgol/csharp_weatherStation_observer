@@ -12,14 +12,14 @@ namespace WetherStation
 
     interface IObserver<T>
     {
-         void update(T data);
+         void Update(T data);
     }
 
     interface IObserverable<T,B>
     {
-        void addObserver(T data);
-        void removeObserver(T data);
-        void getNews(B data);
-        void notifyObserver(B data);
+        void AddObserver(T data);
+        void RemoveObserver(T data);
+        void GetNews(B data);
+        void NotifyObserver(B data);
     }
 }

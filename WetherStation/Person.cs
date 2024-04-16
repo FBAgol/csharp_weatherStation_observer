@@ -20,12 +20,12 @@ namespace WetherStation
             City = cityName;
         }
 
-        public void update(Weather data)
+        public void Update(Weather data)
             
         {
             if (data.City == City)
             {
-                Console.WriteLine($"Hi {Name}! die maximale Tepm: {data.Max_temp} und die minimale Temp : {data.Min_temp} in der Stadt '{data.City}' ist ");
+                Console.WriteLine($"Hi {Name}! die maximale Tepm: {data.Max_temp} und die minimale Temp : {data.Min_temp} in der Stadt '{data.City}' am : {data.CurrentDate} ist ");
             }
            
         }
