@@ -19,4 +19,8 @@ Das Observable ist eine Klasse, die die Wetterstation darstellt. Die Wetterstati
 Um das Projekt auszuführen, müssen Sie sicherstellen, dass Sie die erforderlichen Tools für die C#-Entwicklung auf Ihrem System installiert haben. Klonen Sie dann dieses Repository auf Ihren lokalen Computer.
 
 ```sh
-git clone https://github.com/your_username/WeatherStation_Observer.git
+git clone https://github.com/FBAgol/csharp_weatherStation_observer.git
+```
+##UML
+
+
